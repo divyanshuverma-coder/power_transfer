@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>AIM-</h1>
-<p>To Verify Norton's Theorem in DC Circuit . </p>
+<p>To Verify Maximum Power Transfer Theorem in DC Circuits.. </p>
 </body>
 </html>
 
