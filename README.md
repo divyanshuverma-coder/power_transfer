@@ -5,11 +5,11 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab. | <b>Basic Electrical Lab
-<b> Experiment|     <b> To verify norton's theorem in DC circuit .
+<b> Experiment|     <b> To Verify Maximum Power Transfer Theorem in DC Circuits.
 
 
 ### About the Experiment : 
- In any active linear bilateral complex network, current through the load resistance can be calculated by the calculation of norton's equivalent resistance(R<sub>N</sub>) and norton's equivalent current(I<sub>N</sub>).
+The main aim of the experiment is to verify maximum power transfer theorem in DC circuits. In any active linear bilateral network, maximum power will be delivered to the load resistance only when the load resistance is equal to thevenin’s equivalent resistance (Rth) or internal resistance.
 
 <b>Name of Developer | <b> Dr. Anurag Chauhan
 :--|:--|
