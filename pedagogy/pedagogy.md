@@ -25,7 +25,7 @@
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:--
 1.| State maximum power transfer theorem in DC circuits | Remember | State
-2.| Calculate thevenin’s equivalent resistance (Rth) and thevenin’s equivalent voltage (Vth). | Apply| Calculate
+2.| Calculate thevenin’s equivalent resistance (R<sub>th</sub>) and thevenin’s equivalent voltage (V<sub>th</sub>). | Apply| Calculate
 3.| Calculate load current and power transfer (PL) to the load resistance.|Apply | Calculate
 4.| Analyze a graph between the power transferred to the load resistance and load resistance (RL).| Analyse | Analyse |
 
@@ -66,9 +66,9 @@ Read the theory and comprehend the concepts related to the experiment.
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-------------------------
 1.|State maximum power transfer theorem in DC circuits | Recall the statement of maximum power transfer theorem in DC circuits. | <p >Maximum power transfer theorem is applicable to: </p> <p><b>a) Non-Linear circuit </b></p><p> b) Linear circuit  </p>  <p>c) None.</p>
-2.| Calculate Thevenin’s equivalent resistance (Rth) and Thevenin’s equivalent voltage (Vth). | Calculation of Thevenin’s equivalent resistance (Rth) and Thevenin’s equivalent voltage (Vth). | Calculate Thevenin’s equivalent resistance (Rth) of the circuit as shown in Figure:
+2.| Calculate Thevenin’s equivalent resistance (R<sub>th</sub>) and Thevenin’s equivalent voltage (V<sub>th</sub>). | Calculation of Thevenin’s equivalent resistance (R<sub>th</sub>) and Thevenin’s equivalent voltage (V<sub>th</sub>). | Calculate Thevenin’s equivalent resistance (R<sub>th</sub>) of the circuit as shown in Figure:
 3.|Calculate load current and power transfer (PL) to the load resistance. |Calculation of load current and then calculation of power transferred to load resistance. | Calculate power absorbed by  resistance   
-4.| Analyze a graph between the power transferred to the load resistance and load resistance (RL).|Calculate different values of power transferred for different values of load resistance. Accordingly, plot the graph of power transferred with the respect to load resistance. | Maximum power is delivered to load when .<br> a) Thevenin’s equivalent voltage is equal to supply voltage A <br>  b)	Load resistance is equal to Thevenin’s equivalent resistanceA <br>  c)Both <br>  
+4.| Analyze a graph between the power transferred to the load resistance and load resistance (R<sub>L</sub>).|Calculate different values of power transferred for different values of load resistance. Accordingly, plot the graph of power transferred with the respect to load resistance. | Maximum power is delivered to load when .<br> a) Thevenin’s equivalent voltage is equal to supply voltage A <br>  b)	Load resistance is equal to Thevenin’s equivalent resistanceA <br>  c)Both <br>  
 
 
 <div align="right">
@@ -87,8 +87,8 @@ Sr. No |	What Students will do?| What Simulator will do?| Purpose of the task
 1.|  Student will click on start button | Simulator will show the start simulator button | To start the simulator
 2.|Student will choose the right statement against the statement  | Simulator will show a statement of maximum power transfer theorem to fill the correct option. If the answer is correct, simulator will take to next step, if not, a message saying ready the theory and again take simulator| Student will be able to understand maximum power transfer theorem in DC circuit. 
 3.| Students will give the input values for DC voltage sources (V1 and V2), resistors (R1 and R2) |Simulator will show the complex electric circuit with numerical boxes.|Student will interact with the electric circuit for the experiment. 
-4.| Student will calculate the value of Thevenin’s equivalent voltage (Vth).| Simulator will show calculate button if Thevenin’s equivalent voltage is wrong, hints will appear as a prompt in the form of formula for Vth and again calculate Vth.| To obtain the value of Vth
-5.| Student will calculate the value of Thevenin’s equivalent resistance (Rth). | Simulator will show calculate button if Thevenin’s equivalent resistance is wrong, hints will appear as a prompt in the form of formula for Rth and again calculate R th. | To obtain the value of Rth 
+4.| Student will calculate the value of Thevenin’s equivalent voltage (V<sub>th</sub>).| Simulator will show calculate button if Thevenin’s equivalent voltage is wrong, hints will appear as a prompt in the form of formula for Vth and again calculate Vth.| To obtain the value of Vth
+5.| Student will calculate the value of Thevenin’s equivalent resistance (R<sub>th</sub>). | Simulator will show calculate button if Thevenin’s equivalent resistance is wrong, hints will appear as a prompt in the form of formula for Rth and again calculate R th. | To obtain the value of R<sub>th</sub>. 
 6.| Student will construct Thevenin’s equivalent circuit and click submit button. | Simulator will show the Thevenin’s equivalent circuit with numerical input box | To draw Thevenin’s equivalent circuit.
 7.| Student will input the value of load resistance in the given range. | Simulator will show numerical box.| To input the value of load resistance.
 8.| Student will click on calculate button IL button. | Simulator will give the value of load current (IL). | To calculate load current (IL).
