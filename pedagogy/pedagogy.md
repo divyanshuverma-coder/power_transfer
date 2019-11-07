@@ -1,10 +1,9 @@
 ## Round 1
 <p align="center">
 
-<b>To verify Maximum Power Transfer Theorem in DC Circuits.
-</b> <a name="top"></a> </br>
+<b>To verify Maximum Power Transfer Theorem in DC Circuits. </b> <a name="top"></a> </br>
 </p>
-<b>Discipline | </b> Electrical Engineering Lab
+<b>Discipline | </b> Electrical Engineering 
 :--|:--|
 <b> Lab</b> | Basic Electrical Lab
 <b> Experiment</b>|To verify Maximum Power Transfer Theorem in DC Circuits.
