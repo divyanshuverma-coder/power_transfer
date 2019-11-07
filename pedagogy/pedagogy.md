@@ -91,7 +91,7 @@ Sr. No |	What Students will do?| What Simulator will do?| Purpose of the task
 5.| Student will calculate the value of Thevenin’s equivalent resistance (Rth). | Simulator will show calculate button if Thevenin’s equivalent resistance is wrong, hints will appear as a prompt in the form of formula for Rth and again calculate R th. | To obtain the value of Rth 
 6.| Student will construct Thevenin’s equivalent circuit and click submit button. | Simulator will show the Thevenin’s equivalent circuit with numerical input box | To draw Thevenin’s equivalent circuit.
 7.| Student will input the value of load resistance in the given range. | Simulator will show numerical box.| To input the value of load resistance.
-8. | Student will click on calculate button IL button. | Simulator will give the value of load current (IL). | To calculate load current (IL).
+8.| Student will click on calculate button IL button. | Simulator will give the value of load current (IL). | To calculate load current (IL).
 9.| Student will calculate power transferred to load resistance for a selected value of load resistance in the range given. | Simulator will show calculate button if any value is wrong, hint will appear as a prompt in the formula for power transferred. | To calculate the power transferred to load.
 10.| Student will click on graph button. | Simulator will show the graph between the power transferred to the load resistance and load resistance. | To plot the graph between the power transferred to the load resistance and load resistance.
 
