@@ -3,6 +3,13 @@
 
 <b>To verify Maximum Power Transfer Theorem in DC Circuits. </b> <a name="top"></a> </br>
 </p>
+
+<b>Discipline | </b> Electrical Engineering
+:--|:--|
+<b> Lab</b> | Basic Electrical Lab
+<b> Experiment</b>|To verify Norton's Theorem in DC Circuits
+
+
 <b>Discipline | </b> Electrical Engineering 
 :--|:--|
 <b> Lab</b> | Basic Electrical Lab
